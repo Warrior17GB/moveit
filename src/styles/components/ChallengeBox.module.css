@@ -92,7 +92,7 @@
   background: var(--red);
 }
 
-.challengeBoxActive footer button.challengeBoxSuccessededBottom {
+.challengeBoxActive footer button.challengeBoxSucceededBottom {
   background: var(--green);
 }
 
