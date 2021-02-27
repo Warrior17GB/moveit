@@ -44,7 +44,7 @@ button {
 
 button {
   cursor: pointer;
-  outline: none;
+  /* outline: none; */
 }
 
 a {
